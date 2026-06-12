@@ -16,7 +16,7 @@ Operator first (built and **sold** an e-commerce brand solo), builder second. I 
 |---|---|---|
 | **🎙️ JARVIS FYZ** | Voice AI personal assistant — daily briefings across Gmail, calendar & tasks; extended to workout tracking, news, web search, screen capture | Claude · ElevenLabs · Whisper |
 | **📞 AI Outbound Caller Agent** | Voice agent that makes real outbound sales calls — pitches, handles objections, books meetings | Claude · ElevenLabs · Twilio |
-| **🔎 Speed-to-Lead System** | Configurable lead-gen: pulls UK businesses (Google Places), cross-checks Companies House, scores prospects with Claude, drafts outreach | Claude · Google Places API · Companies House API · Playwright |
+| [**🔎 Speed-to-Lead System**](https://github.com/Faiyaz360/leadhound) | Configurable lead-gen: pulls UK businesses (Google Places), cross-checks Companies House, scores prospects with Claude, drafts outreach | Claude · Google Places API · Companies House API · Playwright |
 
 ---
 

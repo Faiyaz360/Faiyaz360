@@ -69,11 +69,15 @@ I build tools that cut real busywork.
 
 ---
 
-## 📊 GitHub
+## 📊 Projects &amp; Languages
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Faiyaz360&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiyaz360&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+  <a href="https://github.com/Faiyaz360/ai-outbound-caller"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz360&repo=ai-outbound-caller&hide_border=true&theme=default" alt="AI Outbound Caller" /></a>
+  <a href="https://github.com/Faiyaz360/A.L.F.R.E.D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz360&repo=A.L.F.R.E.D&hide_border=true&theme=default" alt="A.L.F.R.E.D" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Faiyaz360/leadhound"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz360&repo=leadhound&hide_border=true&theme=default" alt="Speed-to-Lead" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiyaz360&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 </p>
 
 ---

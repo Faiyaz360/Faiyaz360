@@ -5,7 +5,7 @@
 Operator first (built and **sold** an e-commerce brand solo), builder second. I care about tools that remove busywork, not demos that look good in a deck.
 
 🎯 Targeting graduate roles in **AI implementation · automation · business analysis · operations**
-🇬🇧 UK Graduate visa from Jul 2026 — 2 yrs full work rights, no sponsorship needed
+
 📫 faiyaz360.official@gmail.com · [LinkedIn](https://linkedin.com/in/syedtanvirfaiyaz)
 
 ---

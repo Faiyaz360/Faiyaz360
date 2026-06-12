@@ -14,8 +14,8 @@ Operator first (built and **sold** an e-commerce brand solo), builder second. I 
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**🤵 A.L.F.R.E.D**](https://github.com/Faiyaz360/alfred-fyz) | Voice AI butler for Windows — talk to it and it runs your whole PC: launches apps, handles files, web search, daily briefings | Claude · Whisper (on-device) · ElevenLabs |
-| **📞 AI Outbound Caller Agent** | Voice agent that makes real outbound sales calls — pitches, handles objections, books meetings | Claude · ElevenLabs · Twilio |
+| [**🤵 A.L.F.R.E.D**](https://github.com/Faiyaz360/A.L.F.R.E.D) | Voice AI butler for Windows — talk to it and it runs your whole PC: launches apps, handles files, web search, daily briefings | Claude · Whisper (on-device) · ElevenLabs |
+| [**📞 AI Outbound Caller Agent**](https://github.com/Faiyaz360/ai-outbound-caller) | Voice agent that makes real outbound sales calls — pitches, handles objections, books meetings | Claude · ElevenLabs · Twilio |
 | [**🔎 Speed-to-Lead System**](https://github.com/Faiyaz360/leadhound) | Configurable lead-gen: pulls UK businesses (Google Places), cross-checks Companies House, scores prospects with Claude, drafts outreach | Claude · Google Places API · Companies House API · Playwright |
 
 ---

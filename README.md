@@ -3,14 +3,14 @@
 <p align="center"><b>Business Management (BSc, Essex '26) who ships AI agents.</b></p>
 
 <p align="center">
-I build working automation for the way small businesses actually run — voice
-assistants, AI callers, lead pipelines — going from idea to working tool in days
-with AI-assisted development.
+I build automation for the way small businesses run: voice assistants, AI
+callers, and lead pipelines. I take an idea to a working tool in days using
+AI-assisted development.
 </p>
 
 <p align="center">
-Operator first (built and <b>sold</b> an e-commerce brand solo), builder second.
-I care about tools that remove busywork, not demos that look good in a deck.
+Operator first, builder second. I built and sold an e-commerce brand solo, and
+I build tools that cut real busywork.
 </p>
 
 <p align="center">
@@ -52,18 +52,20 @@ I care about tools that remove busywork, not demos that look good in a deck.
 
 ## 🚀 Selected Work
 
-- **🤵 [A.L.F.R.E.D](https://github.com/Faiyaz360/A.L.F.R.E.D)** — voice AI butler for Windows: talk to it and it runs your whole PC — launches apps, handles files, web search, daily briefings. _Claude · Whisper (on-device) · ElevenLabs_
-- **📞 [AI Outbound Caller — Emma](https://github.com/Faiyaz360/ai-outbound-caller)** — voice agent that makes real outbound sales calls: pitches, handles objections with a LAARC playbook, and books meetings. FastAPI tool server + Next.js dashboard. _Claude · ElevenLabs · Twilio_
-- **🔎 [Speed-to-Lead System](https://github.com/Faiyaz360/leadhound)** — configurable lead-gen: pulls UK businesses (Google Places), cross-checks Companies House, scores prospects with Claude, drafts outreach. _Claude · Google Places · Companies House · Playwright_
+- **🤵 [A.L.F.R.E.D](https://github.com/Faiyaz360/A.L.F.R.E.D)**: a voice AI butler for Windows. You talk to it and it runs your PC: it launches apps, handles files, searches the web, and reads you a daily briefing. _Claude · Whisper (on-device) · ElevenLabs_
+- **📞 [AI Outbound Caller (Emma)](https://github.com/Faiyaz360/ai-outbound-caller)**: a voice agent that makes real outbound sales calls. It pitches, handles objections with a LAARC playbook, and books meetings. FastAPI tool server plus a Next.js dashboard. _Claude · ElevenLabs · Twilio_
+- **🔎 [Speed-to-Lead System](https://github.com/Faiyaz360/leadhound)**: pulls UK businesses from Google Places, cross-checks Companies House, scores prospects with Claude, and drafts the outreach. _Claude · Google Places · Companies House · Playwright_
+
+<sub>More repos are going public. The pinned ones are live.</sub>
 
 ---
 
 ## 🧠 How I Work
 
-- **AI-assisted development** — Claude Code to go from idea to working tool fast, then I own the architecture and review.
-- **Automation that removes busywork** — built for real operational pain, not demos.
-- **Operator mindset** — I've run a business end to end; I think in outcomes, cost and time saved.
-- **Ship, then sharpen** — a working tool first, polish where it actually matters.
+- **AI-assisted development.** I use Claude Code to build fast, then I own the architecture and the review.
+- **Automation that cuts busywork.** I build for real operational pain.
+- **Operator mindset.** I have run a business end to end, so I think in outcomes, cost, and time saved.
+- **Ship, then sharpen.** A working tool first, then I polish where it counts.
 
 ---
 
@@ -78,9 +80,8 @@ I care about tools that remove busywork, not demos that look good in a deck.
 
 ## 💡 A bit more
 
-I learned to make things work with whatever I had — taught myself to build before
-I had steady access to a laptop. The same trait shows up everywhere: lost 50 kg,
-then took up competitive powerlifting, a sport that's pure discipline. When I
-commit, I go all the way.
+I taught myself to build before I had steady access to a laptop. The same
+pattern shows up away from the screen: I lost 50 kg, then took up competitive
+powerlifting. I finish what I start.
 
-<p align="center"><b>If you're hiring someone who's genuinely dangerous with AI tools and thinks like an operator — let's talk.</b></p>
+<p align="center"><b>If you want someone who builds with AI and thinks like an operator, let's talk.</b></p>

@@ -2,6 +2,10 @@
 
 <h1 align="center">Hi, I'm Syed Tanvir Faiyaz 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A371F7&center=true&vCenter=true&width=820&lines=AI+%26+Automation+Builder;Built+%26+sold+an+e-commerce+brand+solo;4+shipped+AI+tools+in+2+months;UK+Graduate+visa+2026+%E2%80%94+no+sponsorship" alt="What I do" />
+</p>
+
 <p align="center"><b>Business Management (BSc, Essex '26) who ships AI agents.</b></p>
 
 <p align="center">
@@ -102,6 +106,15 @@ I build tools that cut real busywork.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Faiyaz360/Faiyaz360/output/snake.svg" alt="Contribution snake eating my commit graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faiyaz360&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faiyaz360&theme=tokyonight&utcOffset=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faiyaz360&theme=tokyonight" />
 </p>
 
 ---

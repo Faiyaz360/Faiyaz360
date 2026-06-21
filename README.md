@@ -100,6 +100,10 @@ I build tools that cut real busywork.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiyaz360&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Faiyaz360/Faiyaz360/output/snake.svg" alt="Contribution snake eating my commit graph" />
+</p>
+
 ---
 
 ## 💡 A bit more

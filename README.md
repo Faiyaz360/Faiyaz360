@@ -111,11 +111,7 @@ I build tools that cut real busywork.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faiyaz360&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" width="98%" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faiyaz360&theme=tokyonight&utcOffset=1" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faiyaz360&theme=tokyonight" />
-</p>
+
 
 ---
 

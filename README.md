@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi, I'm Syed Tanvir Faiyaz ðŸ‘‹</h1>
+<h1 align="center">Hi, I'm Syed Tanvir Faiyaz 👋</h1>
 
 <p align="center"><b>Business Management (BSc, Essex '26) who ships AI agents.</b></p>
 
@@ -14,13 +14,13 @@ I build tools that cut real busywork.
 </p>
 
 <p align="center">
-ðŸŽ¯ Targeting graduate roles in <b>AI implementation Â· automation Â· business analysis Â· operations</b><br/>
-ðŸ“« faiyaz360.official@gmail.com Â· <a href="https://linkedin.com/in/faiyaztanvir">LinkedIn</a>
+🎯 Targeting graduate roles in <b>AI implementation · automation · business analysis · operations</b><br/>
+📫 faiyaz360.official@gmail.com · <a href="https://linkedin.com/in/faiyaztanvir">LinkedIn</a>
 </p>
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center"><b>Languages</b></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=python,ts,js,nodejs" /></p>
@@ -46,21 +46,21 @@ I build tools that cut real busywork.
 <p align="center"><b>Tooling &amp; Data</b></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=git,github,sqlite,vercel" /></p>
 
-<p align="center"><sub><b>Also:</b> workflow automation Â· prompt engineering Â· e-commerce ops Â· digital marketing Â· APIs</sub></p>
+<p align="center"><sub><b>Also:</b> workflow automation · prompt engineering · e-commerce ops · digital marketing · APIs</sub></p>
 
 ---
 
-## ðŸš€ Selected Work
+## 🚀 Selected Work
 
-- **ðŸ¤µ [A.L.F.R.E.D](https://github.com/Faiyaz360/A.L.F.R.E.D)**: a voice AI butler for Windows. You talk to it and it runs your PC: it launches apps, handles files, searches the web, and reads you a daily briefing. _Claude Â· Whisper (on-device) Â· ElevenLabs_
-- **ðŸ“ž [AI Outbound Caller (Emma)](https://github.com/Faiyaz360/ai-outbound-caller)**: a voice agent that makes real outbound sales calls. It pitches, handles objections with a LAARC playbook, and books meetings. FastAPI tool server plus a Next.js dashboard. _Claude Â· ElevenLabs Â· Twilio_
-- **ðŸ”Ž [Speed-to-Lead System](https://github.com/Faiyaz360/leadhound)**: pulls UK businesses from Google Places, cross-checks Companies House, scores prospects with Claude, and drafts the outreach. _Claude Â· Google Places Â· Companies House Â· Playwright_
+- **🤵 [A.L.F.R.E.D](https://github.com/Faiyaz360/A.L.F.R.E.D)**: a voice AI butler for Windows. You talk to it and it runs your PC: it launches apps, handles files, searches the web, and reads you a daily briefing. _Claude · Whisper (on-device) · ElevenLabs_
+- **📞 [AI Outbound Caller (Emma)](https://github.com/Faiyaz360/ai-outbound-caller)**: a voice agent that makes real outbound sales calls. It pitches, handles objections with a LAARC playbook, and books meetings. FastAPI tool server plus a Next.js dashboard. _Claude · ElevenLabs · Twilio_
+- **🔎 [Speed-to-Lead System](https://github.com/Faiyaz360/leadhound)**: pulls UK businesses from Google Places, cross-checks Companies House, scores prospects with Claude, and drafts the outreach. _Claude · Google Places · Companies House · Playwright_
 
 <sub>More repos are going public. The pinned ones are live.</sub>
 
 ---
 
-## ðŸ§  How I Work
+## 🧠 How I Work
 
 - **AI-assisted development.** I use Claude Code to build fast, then I own the architecture and the review.
 - **Automation that cuts busywork.** I build for real operational pain.
@@ -69,7 +69,7 @@ I build tools that cut real busywork.
 
 ---
 
-## ðŸ“Š Projects &amp; Languages
+## 📊 Projects &amp; Languages
 
 <p align="center">
   <a href="https://github.com/Faiyaz360/ai-outbound-caller"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz360&repo=ai-outbound-caller&hide_border=true&theme=default" alt="AI Outbound Caller" /></a>
@@ -82,7 +82,7 @@ I build tools that cut real busywork.
 
 ---
 
-## ðŸ’¡ A bit more
+## 💡 A bit more
 
 I taught myself to build before I had steady access to a laptop. The same
 pattern shows up away from the screen: I lost 50 kg, then took up competitive

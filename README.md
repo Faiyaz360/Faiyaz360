@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.png" alt="Syed Tanvir Faiyaz — AI & Automation Builder" width="100%" /></p>
+
 <h1 align="center">Hi, I'm Syed Tanvir Faiyaz 👋</h1>
 
 <p align="center"><b>Business Management (BSc, Essex '26) who ships AI agents.</b></p>
@@ -102,3 +104,8 @@ pattern shows up away from the screen: I lost 50 kg, then took up competitive
 powerlifting. I finish what I start.
 
 <p align="center"><b>If you want someone who builds with AI and thinks like an operator, let's talk.</b></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Faiyaz360&label=Profile%20views&color=8957e5&style=flat" alt="Profile views" />
+</p>
+

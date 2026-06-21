@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.png" alt="Syed Tanvir Faiyaz — AI & Automation Builder" width="100%" /></p>
+<p align="center"><img src="assets/header.svg" alt="Syed Tanvir Faiyaz — AI & Automation Builder" width="100%" /></p>
 
 <h1 align="center">Hi, I'm Syed Tanvir Faiyaz 👋</h1>
 

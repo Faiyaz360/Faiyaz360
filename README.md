@@ -86,18 +86,18 @@ I build tools that cut real busywork.
 ## 📊 Projects &amp; Languages
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Faiyaz360&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Faiyaz360&hide_border=true&theme=default" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Faiyaz360&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d0714&title_color=b07cff&icon_color=8957e5&text_color=c9c4d6" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Faiyaz360&hide_border=true&background=0d0714&ring=b07cff&fire=b07cff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=b07cff&sideLabels=c9c4d6&dates=8b88a0&stroke=b07cff" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Faiyaz360/ai-outbound-caller"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz360&repo=ai-outbound-caller&hide_border=true&theme=default" alt="AI Outbound Caller" /></a>
-  <a href="https://github.com/Faiyaz360/A.L.F.R.E.D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz360&repo=A.L.F.R.E.D&hide_border=true&theme=default" alt="A.L.F.R.E.D" /></a>
+  <a href="https://github.com/Faiyaz360/ai-outbound-caller"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz360&repo=ai-outbound-caller&hide_border=true&bg_color=0d0714&title_color=b07cff&icon_color=8957e5&text_color=c9c4d6" alt="AI Outbound Caller" /></a>
+  <a href="https://github.com/Faiyaz360/A.L.F.R.E.D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz360&repo=A.L.F.R.E.D&hide_border=true&bg_color=0d0714&title_color=b07cff&icon_color=8957e5&text_color=c9c4d6" alt="A.L.F.R.E.D" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Faiyaz360/leadhound"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz360&repo=leadhound&hide_border=true&theme=default" alt="Speed-to-Lead" /></a>
-  <a href="https://github.com/Faiyaz360/powerlab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz360&repo=powerlab&hide_border=true&theme=default" alt="PowerLab" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiyaz360&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+  <a href="https://github.com/Faiyaz360/leadhound"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz360&repo=leadhound&hide_border=true&bg_color=0d0714&title_color=b07cff&icon_color=8957e5&text_color=c9c4d6" alt="Speed-to-Lead" /></a>
+  <a href="https://github.com/Faiyaz360/powerlab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz360&repo=powerlab&hide_border=true&bg_color=0d0714&title_color=b07cff&icon_color=8957e5&text_color=c9c4d6" alt="PowerLab" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiyaz360&layout=compact&hide_border=true&bg_color=0d0714&title_color=b07cff&icon_color=8957e5&text_color=c9c4d6" alt="Top languages" />
 </p>
 
 ---

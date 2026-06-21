@@ -86,7 +86,7 @@ I build tools that cut real busywork.
 ## 📊 Projects &amp; Languages
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Faiyaz360&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Faiyaz360&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com/?user=Faiyaz360&hide_border=true&theme=tokyonight&fire=ff4444" alt="GitHub streak" />
 </p>
 

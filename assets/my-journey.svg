@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-labelledby="title">
+  <title id="title">02 / My journey</title>
+  <rect x="1" y="1" width="1198" height="98" fill="#0d1117" stroke="#655030"/>
+  <g fill="none" stroke="#b59354" opacity="0.65">
+    <circle cx="64" cy="50" r="30"/><circle cx="64" cy="50" r="19"/>
+    <path d="m64 17 7 26 26 7-26 7-7 26-7-26-26-7 26-7Z"/>
+    <path d="M110 50h96M930 50h243M945 80l42-34 35 15 41-41 47 53 55-32"/>
+    <circle cx="987" cy="46" r="4"/><circle cx="1063" cy="20" r="4"/><circle cx="1110" cy="73" r="4"/>
+  </g>
+  <text x="248" y="64" fill="#e7cf9a" font-family="Georgia, 'Times New Roman', serif" font-size="40" letter-spacing="5">02 / MY JOURNEY</text>
+<style>@media(prefers-reduced-motion:reduce){.motion{display:none}}</style><circle class="motion" r="3" fill="#ead09a"><animateMotion dur="24s" repeatCount="indefinite" path="M945 80L987 46L1022 61L1063 20L1110 73L1165 41"/></circle></svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-labelledby="title">
+  <title id="title">01 / Selected work</title>
+  <rect x="1" y="1" width="1198" height="98" fill="#0d1117" stroke="#655030"/>
+  <g fill="none" stroke="#b59354" opacity="0.65">
+    <circle cx="64" cy="50" r="30"/><circle cx="64" cy="50" r="19"/>
+    <ellipse cx="64" cy="50" rx="8" ry="30" transform="rotate(35 64 50)"/>
+    <path d="M26 50h76M64 12v76M110 50h96M930 50h243"/>
+    <ellipse cx="1085" cy="50" rx="75" ry="25" transform="rotate(-16 1085 50)"/>
+    <ellipse cx="1085" cy="50" rx="62" ry="33" transform="rotate(24 1085 50)"/>
+    <circle cx="1085" cy="50" r="5" fill="#d2b776"/>
+  </g>
+  <text x="248" y="64" fill="#e7cf9a" font-family="Georgia, 'Times New Roman', serif" font-size="40" letter-spacing="5">01 / SELECTED WORK</text>
+<style>@media(prefers-reduced-motion:reduce){.motion{display:none}}</style><g class="motion"><circle cx="64" cy="20" r="3" fill="#ead09a"/><animateTransform attributeName="transform" type="rotate" from="0 64 50" to="360 64 50" dur="28s" repeatCount="indefinite"/></g></svg>

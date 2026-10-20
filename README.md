@@ -1,129 +1,107 @@
-<p align="center"><img src="assets/header.svg" alt="Syed Tanvir Faiyaz — AI & Automation Builder" width="100%" /></p>
-
-<h1 align="center">Hi, I'm Syed Tanvir Faiyaz 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A371F7&center=true&vCenter=true&width=820&lines=AI+%26+Automation+Builder;Built+%26+sold+an+e-commerce+brand+solo;4+shipped+AI+tools+in+2+months" alt="What I do" />
+<p>
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero.png" />
+    <img src="assets/hero-animated.svg" width="100%" alt="Syed Tanvir Faiyaz. A traveller looks out from a classical observatory over an ancient city beneath the stars." />
+  </picture>
 </p>
 
-<p align="center"><b>Business Management (BSc, Essex '26) who ships AI agents.</b></p>
+<h1>Things I wanted to exist.</h1>
 
-<p align="center">
-I build automation for the way small businesses run: voice assistants, AI
-callers, and lead pipelines. I take an idea to a working tool in days using
-AI-assisted development.
+<p>I explore new technology and build things I want to see in the world. The ambition is to make a real difference. The space programme is taking a little longer.</p>
+
+<p>
+  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
+  <a href="#my-journey">My journey</a> &nbsp;·&nbsp;
+  <a href="#get-in-touch">Get in touch</a>
 </p>
 
-<p align="center">
-Operator first, builder second. I built and sold an e-commerce brand solo, and
-I build tools that cut real busywork.
+<a name="selected-work"></a>
+<h2><img src="assets/selected-work.svg" width="100%" alt="01 / Selected work" /></h2>
+
+<p>A few ideas that made it out of my head and into working software.</p>
+
+<p>
+  <a href="https://www.houndreach.com/">
+    <img src="assets/hound-landing.png" width="100%" alt="Hound's actual landing page: a gold globe against a black background, with the headline Your next customer, on autopilot." />
+  </a>
 </p>
 
-<p align="center">
-🎯 Targeting graduate roles in <b>AI implementation · automation · business analysis · operations</b><br/>
-📫 faiyaz360.official@gmail.com · <a href="https://linkedin.com/in/faiyaztanvir">LinkedIn</a>
+<h3>Hound</h3>
+
+<p>Hound searches the web every day for people talking about problems your business can solve, then helps you reach out on LinkedIn and by email. Founders have better things to do than scroll LinkedIn and X all day.</p>
+
+<p><sub>Independent build · Sales research &amp; outreach · Private source</sub></p>
+
+<p><a href="https://www.houndreach.com/">Explore Hound ↗</a></p>
+
+<h3>PowerLab</h3>
+
+<table>
+  <tr>
+    <td width="38%" align="center" valign="middle">
+      <a href="https://huggingface.co/spaces/Faiyaz360/Power-Lab"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/powerlab-still.png" /><img src="assets/powerlab-demo.gif" width="180" alt="Real PowerLab output: a male lifter performs a deadlift with the detected joint points and connected body skeleton overlaid on the video." /></picture></a>
+    </td>
+    <td width="62%" valign="middle">
+      <p>I compete in powerlifting, so I built a tool that checks lifts from a phone video: squat depth, bar path and bar speed. The bar doesn't care how convincing my excuses are.</p>
+      <p><sub>Personal project · Computer vision</sub></p>
+      <p><a href="https://huggingface.co/spaces/Faiyaz360/Power-Lab">Try PowerLab ↗</a><br /><a href="https://github.com/Faiyaz360/Powerlab---Powerlifting-Analysis-Coach---Computer-Vision---YOLO">View source ↗</a></p>
+    </td>
+  </tr>
+</table>
+
+<p><a href="https://github.com/Faiyaz360/jarvis"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/jarvis.png" /><img src="assets/jarvis-animated.svg" width="100%" alt="Jarvis cover illustration inspired by the Iron Man workshop: a man seen from behind manipulates floating computer interfaces with his fingers. His face is hidden." /></picture></a></p>
+
+<h3>Jarvis</h3>
+
+<p>A voice assistant for my Windows PC. It reads the screen, works with files, runs commands and answers out loud. Yes, I named it Jarvis. You saw the picture.</p>
+
+<p><sub>Personal project · Voice &amp; desktop automation</sub></p>
+
+<p><a href="https://github.com/Faiyaz360/jarvis">Explore Jarvis ↗</a></p>
+
+<h3>A few more builds</h3>
+
+<ul>
+  <li><p><strong><a href="https://github.com/Faiyaz360/ai-outbound-caller">Emma</a>.</strong> A voice-calling showcase that handles conversations, checks calendar availability and books meetings, with a dashboard for call outcomes.</p></li>
+  <li><p><strong><a href="https://github.com/Faiyaz360/holiday-supplier-workspace">Holiday Supplier Workspace</a>.</strong> A finance workspace for comparing hotel statements with a ledger, explaining differences with source evidence, and preparing supplier follow-up for a person to review. An independent portfolio demo using fictional records.</p></li>
+  <li><p><strong>ScoutMind Business OS.</strong> I built the internal workspace for planning, relationships, meetings and company documents. I also help my co-founder with the wider business. The source stays private.</p></li>
+</ul>
+
+<a name="my-journey"></a>
+<h2><img src="assets/my-journey.svg" width="100%" alt="02 / My journey" /></h2>
+
+<h3>There is a person behind all these tabs.</h3>
+
+<p>I worked with a team rolling out factory management software, then moved into construction operations. I ran a nine-person office, worked with suppliers and contractors, and helped move accounts from paper into digital records.</p>
+
+<p>Then came two Shopify stores. I sourced the products, built the stores, ran the adverts and looked after the customers. I sold one of the brands. There were quite a few hats involved.</p>
+
+<p>I studied Business Management at Essex and ran practical startup workshops through the Entrepreneurship Society. These days I build across web products, voice interfaces and computer vision. Business problems get my attention. So do ideas I want to try for myself.</p>
+
+<h3>What's in the workshop</h3>
+
+<table>
+  <tr><th width="30%" align="left">Area</th><th width="70%" align="left">What I work with</th></tr>
+  <tr><td><strong>Web products</strong></td><td>TypeScript, React, Next.js, PostgreSQL, Prisma, sign-in and billing.</td></tr>
+  <tr><td><strong>Voice &amp; automation</strong></td><td>Python, FastAPI, speech recognition, streaming voice, phone and calendar integrations, background jobs.</td></tr>
+  <tr><td><strong>Computer vision</strong></td><td>OpenCV, YOLO, MediaPipe, pose estimation, barbell tracking and movement analysis.</td></tr>
+  <tr><td><strong>Testing &amp; deployment</strong></td><td>Pytest, Vitest, Playwright, Docker, Vercel, Railway and Google Cloud.</td></tr>
+  <tr><td><strong>Business &amp; operations</strong></td><td>Supplier sourcing and negotiation, bookkeeping, process improvement, Shopify, advertising and customer research.</td></tr>
+</table>
+
+<h3>Beyond the screen</h3>
+
+<p>Away from the keyboard, I compete in powerlifting and read about Roman history, great leaders, business and psychology. Alexander the Great and visionary tech founders both make the reading list. I like people who look at the edge of a map and start making plans.</p>
+
+<p>I read about space, too. One day, I'd like to see Earth from the other side of the atmosphere.</p>
+
+<p><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/footer.png" /><img src="assets/footer-animated.svg" width="100%" alt="Still building. The traveller watches sunrise over the city from the observatory terrace." /></picture></p>
+
+<a name="get-in-touch"></a>
+<h2>Got an idea worth getting carried away with?</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/faiyaztanvir/">LinkedIn ↗</a> &nbsp;·&nbsp;
+  <a href="mailto:faiyaz360.official@gmail.com">Email ↗</a> &nbsp;·&nbsp;
+  <a href="https://www.houndreach.com/">Hound ↗</a>
 </p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center"><b>Languages</b></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=python,ts,js,nodejs" /></p>
-
-<p align="center"><b>Web &amp; Frameworks</b></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,tailwind" /></p>
-
-<p align="center"><b>AI &amp; Voice</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
-  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
-</p>
-
-<p align="center"><b>Computer Vision &amp; ML</b></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=opencv,pytorch" /></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe BlazePose" />
-  <img src="https://img.shields.io/badge/YOLO--pose-111F68?style=for-the-badge" alt="YOLO-pose" />
-  <img src="https://img.shields.io/badge/MotionBERT-EE4C2C?style=for-the-badge" alt="MotionBERT (2D→3D)" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
-  <img src="https://img.shields.io/badge/Hugging_Face_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Spaces" />
-</p>
-
-<p align="center"><b>Automation &amp; APIs</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Google_Places-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Places API" />
-  <img src="https://img.shields.io/badge/Companies_House-00703C?style=for-the-badge" alt="Companies House API" />
-</p>
-
-<p align="center"><b>Tooling &amp; Data</b></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,sqlite,vercel" /></p>
-
-<p align="center"><sub><b>Also:</b> pose estimation · matplotlib · pytest · workflow automation · prompt engineering · e-commerce ops · digital marketing · APIs</sub></p>
-
----
-
-## 🚀 Selected Work
-
-- **🤵 [A.L.F.R.E.D](https://github.com/Faiyaz360/A.L.F.R.E.D)**: a voice AI butler for Windows. You talk to it and it runs your PC: it launches apps, handles files, searches the web, and reads you a daily briefing. _Claude · Whisper (on-device) · ElevenLabs_
-- **📞 [AI Outbound Caller (Emma)](https://github.com/Faiyaz360/ai-outbound-caller)**: a voice agent that makes real outbound sales calls. It pitches, handles objections with a LAARC playbook, and books meetings. FastAPI tool server plus a Next.js dashboard. _Claude · ElevenLabs · Twilio_
-- **🔎 [Speed-to-Lead System](https://github.com/Faiyaz360/leadhound)**: pulls UK businesses from Google Places, cross-checks Companies House, scores prospects with Claude, and drafts the outreach. _Claude · Google Places · Companies House · Playwright_
-- **🏋️ [PowerLab](https://github.com/Faiyaz360/powerlab)** · [live demo](https://huggingface.co/spaces/Faiyaz360/Power-Lab): upload a side-on phone video of a squat or deadlift and a computer-vision pipeline returns coaching and metrics — squat depth, bar path, bar speed for velocity-based training, a /100 execution score, and a DOTS leaderboard. No wearables, just a phone camera. An off-axis honesty gate refuses to score an angle it cannot measure, and coaching is deterministic: code detects faults against IPF rules, the LLM only rephrases them. 167 tests, deployed live. _Python · OpenCV · MediaPipe · MotionBERT (PyTorch) · Gradio_
-
-<sub>More repos are going public. The pinned ones are live.</sub>
-
----
-
-## 🧠 How I Work
-
-- **AI-assisted development.** I use Claude Code to build fast, then I own the architecture and the review.
-- **Automation that cuts busywork.** I build for real operational pain.
-- **Operator mindset.** I have run a business end to end, so I think in outcomes, cost, and time saved.
-- **Ship, then sharpen.** A working tool first, then I polish where it counts.
-
----
-
-## 📊 Projects &amp; Languages
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Faiyaz360&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Faiyaz360&hide_border=true&theme=tokyonight&fire=ff4444" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Faiyaz360/ai-outbound-caller"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz360&repo=ai-outbound-caller&hide_border=true&theme=tokyonight" alt="AI Outbound Caller" /></a>
-  <a href="https://github.com/Faiyaz360/A.L.F.R.E.D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz360&repo=A.L.F.R.E.D&hide_border=true&theme=tokyonight" alt="A.L.F.R.E.D" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Faiyaz360/leadhound"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz360&repo=leadhound&hide_border=true&theme=tokyonight" alt="Speed-to-Lead" /></a>
-  <a href="https://github.com/Faiyaz360/powerlab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz360&repo=powerlab&hide_border=true&theme=tokyonight" alt="PowerLab" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiyaz360&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Faiyaz360/Faiyaz360/output/snake.svg" alt="Contribution snake eating my commit graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faiyaz360&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" width="98%" />
-</p>
-
-
----
-
-## 💡 A bit more
-
-I taught myself to build before I had steady access to a laptop. The same
-pattern shows up away from the screen: I lost 50 kg, then took up competitive
-powerlifting. I finish what I start.
-
-<p align="center"><b>If you want someone who builds with AI and thinks like an operator, let's talk.</b></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Faiyaz360&label=Profile%20views&color=8957e5&style=flat" alt="Profile views" />
-</p>
-

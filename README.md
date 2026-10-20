@@ -10,9 +10,9 @@
 <p>I explore new technology and build things I want to see in the world. The ambition is to make a real difference. The space programme is taking a little longer.</p>
 
 <p>
-  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
-  <a href="#my-journey">My journey</a> &nbsp;·&nbsp;
-  <a href="#get-in-touch">Get in touch</a>
+  <a href="#user-content-selected-work">Selected work</a> &nbsp;·&nbsp;
+  <a href="#user-content-my-journey">My journey</a> &nbsp;·&nbsp;
+  <a href="#user-content-get-in-touch">Get in touch</a>
 </p>
 
 <a name="selected-work"></a>
